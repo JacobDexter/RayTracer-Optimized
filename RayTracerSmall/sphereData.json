@@ -1,0 +1,35 @@
+{
+  "num": 4,
+  "sphere1": {
+    "pos": [ 0.0, -10004, -20 ],
+    "rad": 10000,
+    "surfaceCol": [ 0.20, 0.20, 0.20 ],
+    "ref": 0,
+    "trnsp": 0.0,
+    "emCol": 0
+  },
+  "sphere2": {
+    "pos": [ 0.0, 0, -20 ],
+    "rad": 100,
+    "surfaceCol": [ 1.00, 0.32, 0.36 ],
+    "ref": 1,
+    "trnsp": 0.5,
+    "emCol": 0
+  },
+  "sphere3": {
+    "pos": [ 5.0, -1, -15 ],
+    "rad": 2,
+    "surfaceCol": [ 0.90, 0.76, 0.46 ],
+    "ref": 1,
+    "trnsp": 0.0,
+    "emCol": 0
+  },
+  "sphere4": {
+    "pos": [ 5.0, 0, -25 ],
+    "rad": 3,
+    "surfaceCol": [ 0.65, 0.77, 0.97 ],
+    "ref": 1,
+    "trnsp": 0.0,
+    "emCol": 0
+  }
+}
